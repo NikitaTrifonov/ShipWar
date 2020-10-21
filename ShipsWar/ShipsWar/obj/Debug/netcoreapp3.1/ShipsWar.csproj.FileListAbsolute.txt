@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ShipsWar\ShipsWar\bin\Debug\netcoreapp3.1\ShipsWar.exe
+C:\Users\User\source\repos\ShipsWar\ShipsWar\bin\Debug\netcoreapp3.1\ShipsWar.deps.json
+C:\Users\User\source\repos\ShipsWar\ShipsWar\bin\Debug\netcoreapp3.1\ShipsWar.runtimeconfig.json
+C:\Users\User\source\repos\ShipsWar\ShipsWar\bin\Debug\netcoreapp3.1\ShipsWar.runtimeconfig.dev.json
+C:\Users\User\source\repos\ShipsWar\ShipsWar\bin\Debug\netcoreapp3.1\ShipsWar.dll
+C:\Users\User\source\repos\ShipsWar\ShipsWar\bin\Debug\netcoreapp3.1\ShipsWar.pdb
+C:\Users\User\source\repos\ShipsWar\ShipsWar\obj\Debug\netcoreapp3.1\ShipsWar.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShipsWar\ShipsWar\obj\Debug\netcoreapp3.1\ShipsWar.AssemblyInfo.cs
+C:\Users\User\source\repos\ShipsWar\ShipsWar\obj\Debug\netcoreapp3.1\ShipsWar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShipsWar\ShipsWar\obj\Debug\netcoreapp3.1\ShipsWar.dll
+C:\Users\User\source\repos\ShipsWar\ShipsWar\obj\Debug\netcoreapp3.1\ShipsWar.pdb
+C:\Users\User\source\repos\ShipsWar\ShipsWar\obj\Debug\netcoreapp3.1\ShipsWar.genruntimeconfig.cache
+C:\Users\User\source\repos\ShipsWar\ShipsWar\obj\Debug\netcoreapp3.1\ShipsWar.csprojAssemblyReference.cache
